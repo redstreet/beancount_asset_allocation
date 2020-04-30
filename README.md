@@ -1,3 +1,6 @@
+# This command line client has now been been folded into the [fava extension](https://github.com/redstreet/fava_investor) and will no longer be maintained here.
+
+
 ## Intro
 Asset allocation analysis tool for Beancount (Personal accounting software).
 
